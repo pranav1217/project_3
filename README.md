@@ -58,8 +58,6 @@ The initial dataset includes key attributes such as:
 - User accounts for tracking loan status  
 
 ## image of datapreprocessing
-## System Workflow
-![Loan Approval Workflow]("C:\Users\PRANAV\Downloads\WhatsApp Image 2025-09-19 at 15.16.45_1d67996a.jpg")
 ![alt text](<WhatsApp Image 2025-09-19 at 15.16.45_4e9617f2.jpg>)
 ![alt text](<WhatsApp Image 2025-09-19 at 19.05.08_c32d1e80.jpg>)
 ![alt text](<WhatsApp Image 2025-09-19 at 19.06.46_b3679d5c.jpg>)
