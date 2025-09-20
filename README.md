@@ -57,11 +57,6 @@ The initial dataset includes key attributes such as:
 - Integration with databases for storing applications  
 - User accounts for tracking loan status  
 
-## image of datapreprocessing
-![alt text](<WhatsApp Image 2025-09-19 at 15.16.45_4e9617f2.jpg>)
-![alt text](<WhatsApp Image 2025-09-19 at 19.05.08_c32d1e80.jpg>)
-![alt text](<WhatsApp Image 2025-09-19 at 19.06.46_b3679d5c.jpg>)
-
 ## Contributors
 1) Sutar Pranav Kishor 
 2) Patil Bhavesh Dinesh  
